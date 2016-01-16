@@ -9,4 +9,4 @@ proxy:
     - /var/run/docker.sock:/tmp/docker.sock:ro
     - /ssl/certs:/etc/nginx/certs
   environment:
-    DEFAULT_HOST: bluepx.co
+    DEFAULT_HOST: 112.74.107.49
